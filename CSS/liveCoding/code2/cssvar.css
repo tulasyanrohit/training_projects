@@ -1,0 +1,4 @@
+#test {
+    --bg : red;
+    background-color: var(--red);
+}
